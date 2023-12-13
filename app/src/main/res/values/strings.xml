@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">PODCAST RESEP</string>
+    <string name="judul">judul</string>
+    <string name="hasil">hasil</string>
+    <string name="description">description</string>
+    <string-array name="judul_music">
+        <item>Kwetiau Seafood</item>
+        <item>Sushi Sarden</item>
+        <item>Tongseng Ayam</item>
+        <item>Ayam Serundeng Lengkuas</item>
+        <item>Pangsit Goreng</item>
+        <item>Dadar Sosis</item>
+        <item>Ayam Betutu</item>
+        <item>Rawon</item>
+        <item>Ayam Kemangi</item>
+        <item>Rendang</item>
+        <item>Cumi Krispy</item>
+        <item>Jengkol Balado</item>
+        <item>Ayam Geprek</item>
+        <item>Semur Sapi</item>
+        <item>Nasi Goreng Mentega</item>-
+    </string-array>
+
+    <string-array name="data_dekripsi">
+        <item>Semenjak tau resep Kwetiau ala Solaria ini, aku jadi lebih hemat</item>
+        <item>Sushi dari Sarden Emang bisa</item>
+        <item>Buat yang punya daging ayam, ikutan bikin tongseng ayam, yuk!</item>
+        <item>Cobain deh resep ayam serundeng lengkuas dijamin nagih!</item>
+        <item>Bikin pangsit goreng isian Seafood yuk</item>
+        <item>Telur ama sambel emang ga ada obat ya guys</item>
+        <item>Bikin ayam betutu biar berasa lagi jalan ke Bali</item>
+        <item>Siapa di sini pecinta rawon?</item>
+        <item>Makan begini ga mungkin ga boros nasi!!!</item>
+        <item>Resep rendang mudah dan enak</item>
+        <item>Beneran cinta mati sama cumi di masak krispi gini</item>
+        <item>Resep Jengkol Goreng Balado yang Empuk</item>
+        <item>Resep ayam geprek enak dan hemat</item>
+        <item>Semur Daging Sapi ini rasanya empuk dan gurih. Menu kesukaan anak-anak</item>
+        <item>Resep nasi goreng enak simple bikin ketagihan</item>
+    </string-array>
+
+    <array name="music_id">
+        <item>@raw/kwetiau</item>
+        <item>@raw/sushi</item>
+        <item>@raw/tongseng</item>
+        <item>@raw/lengkuas</item>
+        <item>@raw/pangsit</item>
+        <item>@raw/telur</item>
+        <item>@raw/betutu</item>
+        <item>@raw/rawon</item>
+        <item>@raw/kemangi</item>
+        <item>@raw/rendang</item>
+        <item>@raw/cumi</item>
+        <item>@raw/jengkol</item>
+        <item>@raw/geprek</item>
+        <item>@raw/semur</item>
+        <item>@raw/nasi</item>
+    </array>
+
+    <integer-array name="data_gambar">
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar4</item>
+        <item>@drawable/gambar5</item>
+        <item>@drawable/gambar6</item>
+        <item>@drawable/gambar7</item>
+        <item>@drawable/gambar8</item>
+        <item>@drawable/gambar9</item>
+        <item>@drawable/gambar10</item>
+        <item>@drawable/gambar11</item>
+        <item>@drawable/gambar12</item>
+        <item>@drawable/gambar13</item>
+        <item>@drawable/gambar14</item>
+        <item>@drawable/gambar15</item>
+
+    </integer-array>
+</resources>
